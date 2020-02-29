@@ -1,2 +1,5 @@
 #!/usr/bin/python3
-print ("Hello Kaycee")
+def main(msg):
+    print(msg)
+
+main("Hello Beautiful People")
