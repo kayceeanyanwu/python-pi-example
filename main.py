@@ -3,7 +3,7 @@ def main(msg):
     // Adding the second comment to this file.
     //Print a message
 
-    //Chaneges
+    //Chanege
     print(msg)
 
 main("Hello Beautiful People")
