@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def main(msg):
-    // No longer need comment
+    #No longer need comment
     print(msg)
 
 def secondary():
